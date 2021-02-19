@@ -1,0 +1,11 @@
+C:\Users\aftanom\Documents\GitHubRepos\ShuffleTheDeck\ShuffleTheDeck\ShuffleTheDeck\bin\Debug\ShuffleTheDeck.exe.config
+C:\Users\aftanom\Documents\GitHubRepos\ShuffleTheDeck\ShuffleTheDeck\ShuffleTheDeck\bin\Debug\ShuffleTheDeck.exe
+C:\Users\aftanom\Documents\GitHubRepos\ShuffleTheDeck\ShuffleTheDeck\ShuffleTheDeck\bin\Debug\ShuffleTheDeck.pdb
+C:\Users\aftanom\Documents\GitHubRepos\ShuffleTheDeck\ShuffleTheDeck\ShuffleTheDeck\bin\Debug\ShuffleTheDeck.xml
+C:\Users\aftanom\Documents\GitHubRepos\ShuffleTheDeck\ShuffleTheDeck\ShuffleTheDeck\obj\Debug\ShuffleTheDeck.vbprojAssemblyReference.cache
+C:\Users\aftanom\Documents\GitHubRepos\ShuffleTheDeck\ShuffleTheDeck\ShuffleTheDeck\obj\Debug\ShuffleTheDeck.Resources.resources
+C:\Users\aftanom\Documents\GitHubRepos\ShuffleTheDeck\ShuffleTheDeck\ShuffleTheDeck\obj\Debug\ShuffleTheDeck.vbproj.GenerateResource.cache
+C:\Users\aftanom\Documents\GitHubRepos\ShuffleTheDeck\ShuffleTheDeck\ShuffleTheDeck\obj\Debug\ShuffleTheDeck.vbproj.CoreCompileInputs.cache
+C:\Users\aftanom\Documents\GitHubRepos\ShuffleTheDeck\ShuffleTheDeck\ShuffleTheDeck\obj\Debug\ShuffleTheDeck.exe
+C:\Users\aftanom\Documents\GitHubRepos\ShuffleTheDeck\ShuffleTheDeck\ShuffleTheDeck\obj\Debug\ShuffleTheDeck.xml
+C:\Users\aftanom\Documents\GitHubRepos\ShuffleTheDeck\ShuffleTheDeck\ShuffleTheDeck\obj\Debug\ShuffleTheDeck.pdb
